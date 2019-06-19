@@ -1,5 +1,5 @@
 
-To Run the application follow the below steps
+To Run the application  In the project directory you can run the below steps.
 ### `1) npm install`
 ### `2) npm start`
 
